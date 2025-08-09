@@ -2,6 +2,8 @@
 
 Este projeto é um **dashboard interativo** criado com **Python**, **Streamlit**, **Plotly** e **Pandas**, que permite analisar dados salariais da área de dados com filtros dinâmicos, métricas gerais e visualizações perspicazes.
 
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/8fcc6a75-d60f-4bba-adb0-adfc1b1bd829" />
+
 ---
 
 ##  Funcionalidades
@@ -31,3 +33,4 @@ Este projeto é um **dashboard interativo** criado com **Python**, **Streamlit**
 ## Acesse Online
 Confira o dashboard no navegador pelo link:  
 👉 [https://dados-python-25.streamlit.app/](https://dados-python-25.streamlit.app/)
+
