@@ -1,4 +1,4 @@
-# ​ Dashboard de Salários na Área de Dados
+# ​📊 Dashboard de Salários na Área de Dados
 
 Este projeto é um **dashboard interativo** criado com **Python**, **Streamlit**, **Plotly** e **Pandas**, que permite analisar dados salariais da área de dados com filtros dinâmicos, métricas gerais e visualizações perspicazes.
 
@@ -22,14 +22,12 @@ Este projeto é um **dashboard interativo** criado com **Python**, **Streamlit**
 
 ##  Tecnologias Utilizadas
 - [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/) — criado para converter scripts de dados em apps web interativos em minutos :contentReference[oaicite:0]{index=0}
+- [Streamlit](https://streamlit.io/) 
 - [Plotly](https://plotly.com/python/)
 - [Pandas](https://pandas.pydata.org/)
 
 ---
 
-##  Como Executar Localmente
-Clone o repositório:
-```bash
-git clone https://github.com/mingridxs/dados-python.git
-cd dados-python
+## Acesse Online
+Confira o dashboard no navegador pelo link:  
+👉 [https://dados-python-25.streamlit.app/](https://dados-python-25.streamlit.app/)
